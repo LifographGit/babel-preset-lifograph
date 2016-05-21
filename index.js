@@ -1,4 +1,4 @@
-require('babel-core').transform('code', {
+module.exports = ({
   presets: [
     'stage-0'
   ],
