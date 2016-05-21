@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-lifograph",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "The babel settings used across all of the node modules for the lifograph team",
   "main": "index.js",
   "scripts": {
