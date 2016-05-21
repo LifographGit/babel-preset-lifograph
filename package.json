@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-lifograph",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The babel settings used across all of the node modules for the lifograph team",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
     "babel-plugin-transform-es2015-parameters": "6.8.0",
     "babel-plugin-transform-es2015-destructuring": "6.8.0",
     "babel-plugin-transform-es2015-block-scoping": "6.8.0",
-    "babel-plugin-transform-es2015-typeof-symbol": "6.8.0",    
+    "babel-plugin-transform-es2015-typeof-symbol": "6.8.0",
     "babel-plugin-syntax-flow": "6.8.0",
     "babel-plugin-syntax-jsx": "6.8.0",
     "babel-plugin-transform-es2015-modules-commonjs": "6.8.0",
