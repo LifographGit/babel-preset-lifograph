@@ -1,0 +1,22 @@
+{
+  "name": "babel-preset-lifograph",
+  "version": "0.1.0",
+  "description": "The babel settings used across all of the node modules for the lifograph team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "team lifograph",
+  "license": "NOLICENSE",
+  "dependencies": {
+    "babel-plugin-syntax-flow": "6.8.0",
+    "babel-plugin-syntax-jsx": "6.8.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "6.8.0",
+    "babel-plugin-transform-flow-strip-types": "6.8.0",
+    "babel-plugin-transform-react-display-name": "6.8.0",
+    "babel-plugin-transform-react-jsx": "6.8.0",
+    "babel-plugin-transform-regenerator": "6.9.0",
+    "babel-preset-stage-0": "6.5.0"
+  }
+}
